@@ -1,5 +1,8 @@
 {
   "images": [
-    "https://raw.githubusercontent.com/SyabAhmad/textExtractor/main/test12.jpeg"
+    {
+      "title": "Image 1",
+      "url": "https://raw.githubusercontent.com/SyabAhmad/textExtractor/main/test12.jpeg"
+    }
   ]
 }
